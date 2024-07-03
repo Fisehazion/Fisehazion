@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fisehazion
+- 👋 Hi, I’m Fisehatsion Adisu from Ethiopia.
 - 👀 I’m interested in python programming and amateur on it.
 - 🌱 I’m currently learning at Addis Abeba science and technology university.
 - 💞️ I’m looking to collaborate on projects to embrace beginners.
