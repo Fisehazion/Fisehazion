@@ -14,4 +14,4 @@ From Ethiopia | 🧠 AI Engineer | 👨‍💻 Python Developer | 📚 Electrica
 🔗 You can reach me on LinkedIn or Telegram[span_6]
 
 😄 Pronouns: He/Him
-⚡️ Fun Fact: I excel at using technical storytelling and public speaking to bridge the gap between complex engineering and human communication[span_7](start_span)[span_7]
+⚡️ Fun Fact: I excel at using technical storytelling and public speaking to bridge the gap between complex engineering and human communication
