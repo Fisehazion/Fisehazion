@@ -1,24 +1,17 @@
 # 👋 Hi there! I'm Fisehatsion Adisu
+From Ethiopia | 🧠 AI Engineer | 👨‍💻 Python Developer | 📚 Electrical & Computer Engineering Student[span_0](start_span)[span_0](end_span)
 
-From Ethiopia 🇪🇹 | 🧠 AI Engineer & Deep Learning Enthusiast | 👨‍💻 Python Developer | 📚 Electrical & Computer Engineering Student
+🎓 I’m currently studying at Addis Ababa Science and Technology University[span_1](start_span)[span_1](end_span).
+💡 I’m passionate about Python, Deep Learning, and building production-ready AI systems[span_2](start_span)[span_2](end_span).
 
-🎓 Education: Currently pursuing my BSc in Electrical and Computer Engineering at Addis Ababa Science and Technology University (AASTU).
-💡 Passions: Building localized, production-ready AI systems, optimizing computer vision models, and bridging the gap between complex engineering and human communication.  
+🛠 Currently working on:
+ 🤖 Production-ready Computer Vision models using U-Net and ResNet34 backbones for satellite imagery segmentation
+ 📈 Enterprise-level knowledge chatbots integrated with deep company data and custom automated APIs[span_3](start_span)[span_3](end_span)
+ 🗺 Intelligent routing engines and remote server model training pipelines for localization navigation systems[span_4](start_span)[span_4](end_span)
+ 🧑🏽‍💼 Leading Connect to Collab & GDG Content – managing workflows and empowering tech communities with over 8K members[span_5](start_span)[span_5](end_span)
 
-🛠 Tech Stack & Core Competencies
-AI & Machine Learning: Computer Vision, Semantic Segmentation (U-Net, ResNet34), NLP, Knowledge-Retrieval Chatbots.  
-Languages & Frameworks: Python, Django, Java (OOP), React, Next.js.
-Developer Workflows: Git/GitHub, Remote Server Model Training, Linux Terminal Environments.
-💻 Current Technical Focus
-🤖 Production NLP: Built and deployed the Ambalay AI Assistant—a custom enterprise knowledge chatbot that automates data retrieval workflows from deep company documentation.  
-🛰 Geospatial Computer Vision: Engineering deep learning pipelines for satellite imagery segmentation, utilizing U-Net and ResNet34 architectures to hit high Intersection over Union (IoU) benchmarks.
-🗺 Intelligent Automation: Contributing to advanced routing engines and AI-guided navigation features for localized mapping systems.  
-👥 Leadership & Community Impact
-⚡ Media/Content Team Lead @ GDG on Campus AASTU: Managing technical content strategy and workflows for a digital community of over 8K members.  
-📈 Founder @ Habeshawi: Leading cross-functional workflows and structured narrative documentation for creative and technical production teams.  
-🧑🏽‍💼 Lead @ Connect to Collab: Driving a community dedicated to empowering fellow students with free tech tools, educational growth, and operational support.
-🤝 Let's Connect
-I thrive in collaborative, high-impact environments and am always open to discussing model architectures, production engineering, or community building.
-🔗 Professional Network: LinkedIn
-💬 Pronouns: He/Him
-⚡ Fun Fact: When I'm not looking at training metrics or writing code, I use storytelling and public speaking to motivate teams and bridge technical concepts to the real world!
+🤝 I love collaborating on high-impact, production-level engineering projects.
+🔗 You can reach me on LinkedIn or Telegram[span_6](start_span)[span_6](end_span)
+
+😄 Pronouns: He/Him
+⚡️ Fun Fact: I excel at using technical storytelling and public speaking to bridge the gap between complex engineering and human communication[span_7](start_span)[span_7](end_span)!
