@@ -15,7 +15,7 @@ From Ethiopia | 🧠 AI Engineer | 👨‍💻 Python Developer | 📚 Electrica
 
 🤝 I love collaborating on high-impact, production-level engineering projects.
 
-🔗 You can reach me on LinkedIn or Telegram
+🔗 You can reach me on http://www.linkedin.com/in/fisehatsion-adisu-abute-929279208
 
 😄 Pronouns: He/Him
 
