@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Fisehatsion Adisu
-From Ethiopia ETH | 🧠 AI Engineer | 👨‍💻 Python Developer | 📚 Electrical & Computer Engineering Student
+From Ethiopia 🇪🇹 | 🧠 AI Engineer | 👨‍💻 Python Developer | 📚 Electrical & Computer Engineering Student
 
 🎓 I’m currently studying at Addis Ababa Science and Technology University.
 💡 I’m passionate about Python, Deep Learning, and building production-ready AI systems.
