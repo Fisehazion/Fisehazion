@@ -1,22 +1,11 @@
-# 👋 Hi there! I'm Fisehatsion Adisu
-From Ethiopia 🇪🇹 | 🧠 AI Engineer | 👨‍💻 Python Developer | 📚 Electrical & Computer Engineering Student
+#  Hi, I’m Fisehatsion Adisu
 
-🎓 I’m currently studying at Addis Ababa Science and Technology University.
-💡 I’m passionate about Python, Deep Learning, and building production-ready AI systems.
+🇪🇹 Ethiopia | AI Engineer | Python Developer | ECE Student at AASTU
 
-🛠 Currently working on:
- 🤖 Production-ready Computer Vision models using U-Net and ResNet34 backbones for satellite imagery segmentation
- 
- 📈 Enterprise-level knowledge chatbots integrated with deep company data and custom automated APIs
- 
- 🗺 Intelligent routing engines and remote server model training pipelines for localization navigation systems
- 
- 🧑🏽‍💼 Leading Connect to Collab & GDG Content – managing workflows and empowering tech communities with over 8K members
+ I build practical AI solutions—from computer vision systems to **RAG-powered applications and AI assistant chatbots**.
 
-🤝 I love collaborating on high-impact, production-level engineering projects.
+ Exploring deep learning, intelligent systems, and production-ready AI.
 
-🔗 You can reach me on http://www.linkedin.com/in/fisehatsion-adisu-abute-929279208
+ Open to collaborating on impactful projects.
 
-😄 Pronouns: He/Him
-
-⚡️ Fun Fact: I excel at using technical storytelling and public speaking to bridge the gap between complex engineering and human communication
+🔗 [Connect with me on LinkedIn](http://www.linkedin.com/in/fisehatsion-adisu-abute-929279208)
